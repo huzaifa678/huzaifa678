@@ -16,6 +16,7 @@ I’m a curious and driven engineer with strong interests in **Artificial Intell
 - **Artificial Intelligence**
   - Deep Learning
   - Reinforcement Learning
+  - MLops
   - Modern LLM architectures and tooling  
 
 - **DevOps & Cloud**
@@ -54,6 +55,9 @@ I’m always open to collaborating on meaningful projects and applying my skills
 - TensorFlow
 - NumPy / Pandas
 - Scikit-Learn
+- MLflow
+- Apache Airflow
+- DVC
 - LangChain
 - LangGraph
 - FIASS
