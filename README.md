@@ -1,8 +1,113 @@
-- 👋 Hi, My name is Huzaifa Ahmad Gill.
-- 👀 My interest leans towards Artificial Intelligence, Devops, Full Stack Development and High Performance Computing.
-- 🌱 My Current learning is towards Deep Learning, Reinforcement Learning and current LLM models, In DevOps i am learning more about CI/CD tools like github actions along with that i am learning more about containerization tools which include Docker and Kubernetes along with AWS console managment tools, for full stack as i have made projects using MERN stack and Spring boot with Next my current learning is towards Golang with focus on its backend framework known as Gin, for High Performance Computing my main focus is towards learning CUDA programming and more focus on Computer Architecture to enhance my knowledge in the perfomance aspect.
-- 💻 Actively learning and trying my level best to understand the context of what i am building as side projects and actively learning the theory behind the current world systems to understand the core computer science concepts much better. 
-- 💞️ I’m looking to further collaborate to apply my skills in the industry :)
+## 👋 Hi, I’m **Huzaifa Ahmad Gill**
+
+I’m a curious and driven engineer with strong interests in **Artificial Intelligence**, **DevOps**, **Backend & Full-Stack Development**, and **High Performance Computing**. I enjoy building systems end-to-end while deeply understanding *why* they work the way they do.
+
+---
+
+## 👀 Interests
+- Artificial Intelligence & Machine Learning  
+- DevOps & Cloud Infrastructure  
+- Backend & Full-Stack Systems  
+- High Performance & Low-Level Computing  
+
+---
+
+## 🌱 What I’m Currently Learning
+- **Artificial Intelligence**
+  - Deep Learning
+  - Reinforcement Learning
+  - Modern LLM architectures and tooling  
+
+- **DevOps & Cloud**
+  - CI/CD pipelines (GitHub Actions, Jenkins, CircleCI)
+  - Containerization (Docker, Kubernetes)
+  - AWS services and infrastructure management  
+
+- **Backend & Full Stack**
+  - MERN Stack
+  - Spring Boot with Next.js
+  - Golang for backend systems(**gRPC and Gin**) and API Gateway(**Go-Kit**)
+  - Django with Next.js
+
+- **High Performance Computing**
+  - CUDA Programming
+  - Computer Architecture
+  - Performance optimization and low-level system design  
+
+---
+
+## 💻 Philosophy
+I actively build side projects while focusing on **understanding the underlying theory** behind modern systems. My goal is to strengthen core computer science fundamentals while applying them to real-world, scalable architectures.
+
+---
+
+## 💞️ Collaboration
+I’m always open to collaborating on meaningful projects and applying my skills in industry-grade systems and research-driven environments.
+
+---
+
+## 🛠️ Skills & Technologies
+
+### 🧠 Artificial Intelligence & ML
+- Python
+- PyTorch
+- TensorFlow
+- NumPy / Pandas
+- Scikit-Learn
+- LangChain
+- LangGraph
+- FIASS
+- ChromaDB
+- Deep Agent
+- Skills
+
+### ⚙️ Backend Development
+- Golang (Gin, Go-Kit)
+- Node.js
+- Express.js
+- Java (Spring Boot)
+- REST APIs
+- gRPC
+- GraphQL
+- FastAPI
+- Django
+
+### 🌐 Full Stack
+- MongoDB
+- PostgreSQL
+- MySQL
+- React
+- Next.js
+- MERN Stack
+- Redis
+- Apache Kafka
+- RabbitMQ
+
+### 🚀 DevOps & Cloud
+- Docker
+- Kubernetes
+- Helm
+- GitHub Actions
+- Jenkins
+- CircleCI
+- AWS (EKS, EC2, ECR, RDS, S3, VPC, Lambda, API Gateway, ElastiCache, DynamoDB, DocumentDB, CloudFront)
+- Terraform
+- Argo CD
+
+### ⚡ High Performance Computing
+- Unix Pipes
+- Multi-Threading
+  
+### 🔧 Tools & Others
+- Git & GitHub
+- Linux
+- Bash
+- Redis
+- Grafana / Prometheus / tempo
+
+---
+
+✨ *Always learning, building, and refining my understanding of how modern systems work under the hood.*
 
 
 
