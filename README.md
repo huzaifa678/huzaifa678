@@ -69,6 +69,7 @@ I’m always open to collaborating on meaningful projects and applying my skills
 - REST APIs
 - gRPC
 - GraphQL
+- WebSocket
 - FastAPI
 - Django
 
