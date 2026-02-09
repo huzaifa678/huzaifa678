@@ -95,7 +95,7 @@ I’m always open to collaborating on meaningful projects and applying my skills
 - GitHub Actions
 - Jenkins
 - CircleCI
-- AWS (EKS, EC2, ECR, RDS, S3, VPC, Lambda, API Gateway, ElastiCache, DynamoDB, DocumentDB, CloudFront)
+- AWS (EKS, EC2, ECR, RDS, S3, VPC, Lambda, API Gateway, ElastiCache, DynamoDB, DocumentDB, CloudFront, Bedrock)
 - Terraform
 - Argo CD
 
