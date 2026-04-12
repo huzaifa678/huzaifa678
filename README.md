@@ -1,5 +1,7 @@
 ## 👋 Hi, I’m **Huzaifa Ahmad Gill**
 
+![](https://komarev.com/ghpvc/?username=huzaifa678)
+
 I’m a curious and driven engineer with strong interests in **Artificial Intelligence**, **DevOps**, **Backend & Full-Stack Development**, and **High Performance Computing**. I enjoy building systems end-to-end while deeply understanding *why* they work the way they do.
 
 ---
