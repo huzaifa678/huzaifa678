@@ -99,7 +99,13 @@ I enjoy building systems end-to-end while deeply understanding *why* they work t
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
   <img src="https://shields.io" />
-  <img src="https://shields.io" />
+  <a href="https://mlflow.org">
+    <img src="https://simpleicons.org" alt="mlflow" width="40" height="40""")/>>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://apache.org">
+    <img src="https://simpleicons.org" alt="airflow" width="40" height="40""")/>>
+  </a>
 </p>
 
 ---
