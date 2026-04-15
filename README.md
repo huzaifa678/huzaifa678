@@ -71,11 +71,11 @@ I enjoy building systems end-to-end while deeply understanding *why* they work t
 </p>
 
 ### 🔵 APIs & Architecture
-<p align="left">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=graphql" />
   <img src="https://img.shields.io/badge/gRPC-RPC-blue?logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/WebSockets-Realtime-orange" />
-</p>
+</div>
 
 ### 🟠 DevOps & Cloud
 <p align="left">
