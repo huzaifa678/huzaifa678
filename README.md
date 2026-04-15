@@ -62,7 +62,7 @@ I enjoy building systems end-to-end while deeply understanding *why* they work t
 
 ### 🟢 Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=go,nodejs,express,java,spring,fastapi,django,ts,js" />
+  <img src="https://skillicons.dev/icons?i=go,nodejs,express,java,spring,nestjs,fastapi,django,ts,js" />
 </p>
 
 ### 🟣 Frontend
