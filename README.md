@@ -88,11 +88,11 @@ I enjoy building systems end-to-end while deeply understanding *why* they work t
   <img src="https://skillicons.dev/icons?i=nginx" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="48"     height="48" />
 
-  <img src="https://www.google.com/imgres?q=cert%20manager%20icon&imgurl=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fhomarr-labs%2Fdashboard-icons%2Fsvg%2Fcert-manager.svg&imgrefurl=https%3A%2F%2Fdashboardicons.com%2Ficons%2Fcert-manager&docid=ZojycbqyOp8V1M&tbnid=OaE5mc8mZhGoDM&vet=12ahUKEwiZ0JvWuPCTAxXzVqQEHetuItEQnPAOegQIIRAB..i&w=800&h=800&hcb=2&ved=2ahUKEwiZ0JvWuPCTAxXzVqQEHetuItEQnPAOegQIIRAB" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/cert-manager/cert-manager/logo/logo.svg" width="48" height="48"/>
 
-  <img src="https://www.google.com/imgres?q=external%20dns%20icon&imgurl=https%3A%2F%2Fkubernetes-sigs.github.io%2Fexternal-dns%2Flatest%2Fdocs%2Fimg%2Fexternal-dns.png&imgrefurl=https%3A%2F%2Fkubernetes-sigs.github.io%2Fexternal-dns%2F&docid=4QOnk3nBCMw2nM&tbnid=_g61sM5t_Rt5yM&vet=12ahUKEwj3_JqIufCTAxX1RaQEHUmEO-gQnPAOegQIHBAB..i&w=1586&h=1587&hcb=2&ved=2ahUKEwj3_JqIufCTAxX1RaQEHUmEO-gQnPAOegQIHBAB" width="48" height="48"/>
+  <img src="https://raw.githubusercontent.com/kubernetes-sigs/external-dns/master/docs/img/external-dns.png" width="48" height="48"/>
 
-  <img src="https://www.google.com/imgres?q=nginx%20gateway%20fabric%20icon&imgurl=https%3A%2F%2Fnginxstore.com%2Fwp-content%2Fuploads%2F2025%2F06%2FNGINX-Gateway-Fabric-product-icon-1.svg&imgrefurl=https%3A%2F%2Fnginxstore.com%2Fblog%2Fkubernetes%2Fnginx-gateway-fabric-ip-access-control%2F&docid=rVDaBxZ3I-VDxM&tbnid=nMmKsBfovhK-gM&vet=12ahUKEwjj7aKaufCTAxUwUKQEHQAXOxIQnPAOegQIGBAB..i&w=705&h=800&hcb=2&itg=1&ved=2ahUKEwjj7aKaufCTAxUwUKQEHQAXOxIQnPAOegQIGBAB" width="48" height="48" />
+  <img src="https://cdn.jsdelivr.net/gh/nginxinc/kubernetes-ingress@main/docs/images/nginx-logo.png" width="48" height="48"/>
 </p>
 
 ### 🗄️ Databases & Messaging
