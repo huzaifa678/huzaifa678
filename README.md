@@ -101,6 +101,9 @@ I enjoy building systems end-to-end while deeply understanding *why* they work t
 ### 🧠 AI / ML
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,airflow,mlflow" />
+  <img src="https://img.shields.io/badge/LangChain-121D33?logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-000000?logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangSmith-FF4B4B?logo=openai&logoColor=white" />
 </p>
 
 <p align="left">
