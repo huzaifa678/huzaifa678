@@ -2,6 +2,12 @@
 
 ![](https://komarev.com/ghpvc/?username=huzaifa678)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifa678)
+
+[![GitHub Streak](https://demolab.com)](https://git.io/streak-stats)
+
+
+
 I’m a curious and driven engineer with strong interests in **Artificial Intelligence**, **DevOps**, **Backend & Full-Stack Development**, and **High Performance Computing**. I enjoy building systems end-to-end while deeply understanding *why* they work the way they do.
 
 ---
