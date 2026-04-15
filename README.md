@@ -47,7 +47,7 @@ I enjoy building systems end-to-end while deeply understanding *why* they work t
 ## 📊 Language Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifa678&layout=donut-vertical&langs_count=12&hide=jupyter%20notebook,go%20template&exclude_repo=notebook,cpython" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifa678&layout=donut-vertical&langs_count=12&hide=jupyter%20notebook,go%20template,makefile&exclude_repo=notebook,cpython" />
 </p>
 
 <p align="center">
@@ -71,6 +71,7 @@ I enjoy building systems end-to-end while deeply understanding *why* they work t
 ### 🟣 Frontend
 ![React](https://img.shields.io/badge/React-JS-blue)
 ![Next.js](https://img.shields.io/badge/Next.js-Fullstack-black)
+![TypeScript](https://img.shields.io/badge/TypeScript-JS-blue)
 
 ### 🔵 APIs & Architecture
 ![gRPC](https://img.shields.io/badge/gRPC-High_Performance-blue)
@@ -132,10 +133,3 @@ graph TD
 
     M[HPC] --> N[CUDA]
     M --> O[Performance Optimization]
-
----
-
-<!---
-huzaifa678/huzaifa678 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
