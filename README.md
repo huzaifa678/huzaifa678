@@ -109,7 +109,32 @@
   </p>
                                                                                                
                                                                                                                         
-  ---                                                                                                                   
+  ---     
+
+  ## ☁️ AWS Stack
+
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=aws" />
+    
+    <img src="https://img.shields.io/badge/EKS-Kubernetes-orange" />
+    <img src="https://img.shields.io/badge/ECR-Containers-blue" />
+    <img src="https://img.shields.io/badge/Lambda-Serverless-yellow" />
+    <img src="https://img.shields.io/badge/S3-Storage-green" />
+    <img src="https://img.shields.io/badge/EC2-Compute-red" />
+    <img src="https://img.shields.io/badge/Route53-DNS-blueviolet" />
+    <img src="https://img.shields.io/badge/CloudFront-CDN-lightgrey" />
+    <img src="https://img.shields.io/badge/API_Gateway-AWS-purple" />
+    <img src="https://img.shields.io/badge/SQS-Queue-orange" />
+    <img src="https://img.shields.io/badge/CloudWatch-Monitoring-blue" />
+    <img src="https://img.shields.io/badge/XRay-Tracing-black" />
+    <img src="https://img.shields.io/badge/Kinesis-Streams-ff9900" />
+    <img src="https://img.shields.io/badge/Firehose-Delivery-red" />
+    <img src="https://img.shields.io/badge/Rekognition-AI-green" />
+    <img src="https://img.shields.io/badge/Bedrock-LLM-brown" />
+    <img src="https://img.shields.io/badge/Redshift-DataWarehouse-darkred" />
+  </p>
+
+---
                                                                                                                         
   ## 📈 GitHub Dashboard                                                                                                
                                                                                                                         
