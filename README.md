@@ -71,14 +71,40 @@ I enjoy building systems end-to-end while deeply understanding *why* they work t
 
 ### 🔵 APIs & Architecture
 <p align="left">
+  <!-- GraphQL (supported) -->
   <img src="https://skillicons.dev/icons?i=graphql" />
-  <img src="https://img.shields.io/badge/gRPC-High_Performance-blue" />
+  
+  <!-- gRPC -->
+  <img src="https://img.shields.io/badge/gRPC-RPC-blue?logo=grpc&logoColor=white" />
+  
+  <!-- WebSockets -->
   <img src="https://img.shields.io/badge/WebSockets-Realtime-orange" />
 </p>
 
 ### 🟠 DevOps & Cloud
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws,githubactions,jenkins" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws,githubactions,jenkins,ansible" />
+</p>
+
+### ☸️ Kubernetes Ecosystem
+<p align="left">
+  <!-- NGINX -->
+  <img src="https://skillicons.dev/icons?i=nginx" />
+
+  <!-- Apache -->
+  <img src="https://skillicons.dev/icons?i=apache" />
+
+  <!-- Cert Manager -->
+  <img src="https://img.shields.io/badge/Cert--Manager-K8s-blue" />
+
+  <!-- ExternalDNS -->
+  <img src="https://img.shields.io/badge/ExternalDNS-Kubernetes-blue" />
+
+  <!-- API Gateway -->
+  <img src="https://img.shields.io/badge/API_Gateway-Networking-purple" />
+
+  <!-- Service Mesh / Fabric -->
+  <img src="https://img.shields.io/badge/Fabric-Service_Mesh-orange" />
 </p>
 
 ### 🗄️ Databases & Messaging
