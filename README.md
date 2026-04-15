@@ -89,7 +89,7 @@ I enjoy building systems end-to-end while deeply understanding *why* they work t
 <img src="https://skillicons.dev/icons?i=nginx" height="48" />
 <img src="https://cdn.jsdelivr.net/gh/cert-manager/cert-manager/logo/logo.svg" height="48" />
 <img src="https://raw.githubusercontent.com/kubernetes-sigs/external-dns/master/docs/img/external-dns.png" height="48" />
-<img src="https://cdn.jsdelivr.net/gh/nginxinc/NGINX-Demos@master/nginx-logo.svg" height="48" />
+<img src="https://githubusercontent.com" height="48" />
 
 </div>
 
