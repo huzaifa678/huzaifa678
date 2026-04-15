@@ -51,9 +51,9 @@ I enjoy building systems end-to-end while deeply understanding *why* they work t
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifa678&layout=donut-vertical&langs_count=10&exclude_repo=notebook,cpython&hide=jupyter%20notebook,go%20template,makefile" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=huzaifa678&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=huzaifa678&theme=github_dark" />
+<p align="centre">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=huzaifa678&theme=github_dark&exclude=Jupyter%20Notebook" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=huzaifa678&theme=github_dark&exclude=Jupyter%20Notebook" />
 </p>
 
 ---
