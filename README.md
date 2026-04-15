@@ -48,7 +48,7 @@ I enjoy building systems end-to-end while deeply understanding *why* they work t
 ## 📊 Language Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifa678&layout=donut-vertical&langs_count=12&hide=jupyter%20notebook,go%20template,makefile&exclude_repo=notebook,cpython" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifa678&layout=donut-vertical&langs_count=12&exclude_repo=notebook,cpython&hide=jupyter%20notebook,go%20template,makefile" />
 </p>
 
 <p align="center">
