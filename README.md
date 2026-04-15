@@ -79,7 +79,7 @@ I enjoy building systems end-to-end while deeply understanding *why* they work t
 
 ### 🟠 DevOps & Cloud
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws,githubactions,jenkins,ansible" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws,githubactions,jenkins,gitlab,ansible" />
 </p>
 
 ### ☸️ Kubernetes Ecosystem
