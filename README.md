@@ -64,51 +64,50 @@
                                                                                                                         
   ---                                                                                                                   
                                                                                                                         
-  ## 🧩 Frameworks & Ecosystem                                                                                          
-                                                                                                                        
-  ### 🟢 Backend                                                                                                        
-  <p align="left">                                                                                                      
-    <img src="https://skillicons.dev/icons?i=go,nodejs,express,java,spring,fastapi,django" />                           
-  </p>                                                                                                                  
-                                                                                                                        
-  ### 🟣 Frontend                                                                                                       
-  <p align="left">                                                                                                      
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js" />                                                     
-  </p>                                                                                                                  
-                                                                                                                        
-  ### 🔵 APIs & Architecture                                                                                            
-  <p align="left">                                                                                                      
-    <img src="https://skillicons.dev/icons?i=graphql" />                                                                
-    <img src="https://img.shields.io/badge/gRPC-4285F4?logo=google&logoColor=white" />                                  
-    <img src="https://img.shields.io/badge/WebSockets-010101?logo=socketdotio&logoColor=white" />                       
-  </p>                                                                                                                  
-                                                                                                                        
-  ### 🟠 DevOps & Cloud                                                                                                 
-  <p align="left">                                                                                                      
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws,githubactions,jenkins,ansible" />          
-  </p>                                                                                                                  
-                                                                                                                        
-  ### ☸️ Kubernetes Ecosystem                                                                                           
-  <p align="left">                                                                                                      
-    <img src="https://skillicons.dev/icons?i=nginx" />                                                                  
-    <img src="https://skillicons.dev/icons?i=apache" />                                                                 
-    <img src="https://img.shields.io/badge/Cert--Manager-00ADD8?logo=letsencrypt&logoColor=white" />                    
-    <img src="https://img.shields.io/badge/ExternalDNS-326CE5?logo=kubernetes&logoColor=white" />                       
-    <img src="https://img.shields.io/badge/API_Gateway-FF4F8B?logo=amazonapigateway&logoColor=white" />                 
-    <img src="https://img.shields.io/badge/Fabric-Service_Mesh-FF6B35?logo=istio&logoColor=white" />                    
-  </p>                                                                                                                  
-                                                                                                                        
-  ### 🗄️ Databases & Messaging                                                                                          
-  <p align="left">                                                                                                      
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka" />                                     
-  </p>                                                                                                                  
-                                                                                                                        
-  ### 🧠 AI / ML                                                                                                        
-  <p align="left">                                                                                                      
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />                                              
-    <img src="https://img.shields.io/badge/MLflow-Tracking-blue" />                                                     
-    <img src="https://img.shields.io/badge/Airflow-Orchestration-red" />                                                
-  </p>                                                                                                                  
+  ## 🧩 Frameworks & Ecosystem
+
+  ### 🟢 Backend
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=go,nodejs,express,java,spring,fastapi,django" />
+  </p>
+  
+  ### 🟣 Frontend
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js" />
+  </p>
+  
+  ### 🔵 APIs & Architecture
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=graphql" />
+    <img src="https://img.shields.io/badge/gRPC-RPC-blue?logo=google&logoColor=white" />
+    <img src="https://img.shields.io/badge/WebSockets-Realtime-orange" />
+  </p>
+  
+  ### 🟠 DevOps & Cloud
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws,githubactions,jenkins,ansible" />
+  </p>
+  
+  ### ☸️ Kubernetes Ecosystem
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=nginx,apache" />
+    <img src="https://img.shields.io/badge/Cert_Manager-LetsEncrypt-blue?logo=letsencrypt&logoColor=white" />
+    <img src="https://img.shields.io/badge/ExternalDNS-Kubernetes-326CE5?logo=kubernetes&logoColor=white" />
+    <img src="https://img.shields.io/badge/Service_Mesh-Istio-orange?logo=istio&logoColor=white" />
+  </p>
+  
+  ### 🗄️ Databases & Messaging
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka,rabbitmq" />
+  </p>
+  
+  ### 🧠 AI / ML
+  <p align="left">
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+    <img src="https://img.shields.io/badge/MLflow-Tracking-blue" />
+    <img src="https://img.shields.io/badge/Airflow-Orchestration-red" />
+  </p>
+                                                                                               
                                                                                                                         
   ---                                                                                                                   
                                                                                                                         
