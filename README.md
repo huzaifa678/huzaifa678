@@ -98,6 +98,11 @@ I enjoy building systems end-to-end while deeply understanding *why* they work t
 ### 🧠 AI / ML
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,airflow,mlflow" />
+  <br><br>
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
   <img src="https://shields.io" />
 </p>
 
