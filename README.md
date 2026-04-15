@@ -60,30 +60,38 @@ I enjoy building systems end-to-end while deeply understanding *why* they work t
 ## 🧩 Frameworks & Ecosystem
 
 ### 🟢 Backend
-![Golang](https://img.shields.io/badge/Golang-Backend-blue)
-![Gin](https://img.shields.io/badge/Gin-Framework-blue)
-![Go-Kit](https://img.shields.io/badge/Go--Kit-Microservices-black)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-Java-green)
-![FastAPI](https://img.shields.io/badge/FastAPI-Python-teal)
-![Django](https://img.shields.io/badge/Django-Python-darkgreen)
-![Express](https://img.shields.io/badge/Express-Node.js-lightgrey)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=go,nodejs,express,java,spring,fastapi,django" />
+</p>
 
 ### 🟣 Frontend
-![React](https://img.shields.io/badge/React-JS-blue)
-![Next.js](https://img.shields.io/badge/Next.js-Fullstack-black)
-![TypeScript](https://img.shields.io/badge/TypeScript-JS-blue)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js" />
+</p>
 
 ### 🔵 APIs & Architecture
-![gRPC](https://img.shields.io/badge/gRPC-High_Performance-blue)
-![GraphQL](https://img.shields.io/badge/GraphQL-API-pink)
-![WebSockets](https://img.shields.io/badge/WebSockets-Realtime-orange)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=graphql" />
+  <img src="https://img.shields.io/badge/gRPC-High_Performance-blue" />
+  <img src="https://img.shields.io/badge/WebSockets-Realtime-orange" />
+</p>
 
 ### 🟠 DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-Containers-blue)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue)
-![Helm](https://img.shields.io/badge/Helm-K8s-purple)
-![Terraform](https://img.shields.io/badge/Terraform-IaC-purple)
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws,githubactions,jenkins" />
+</p>
+
+### 🗄️ Databases & Messaging
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka" />
+</p>
+
+### 🧠 AI / ML
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+  <img src="https://img.shields.io/badge/MLflow-Tracking-blue" />
+  <img src="https://img.shields.io/badge/Airflow-Orchestration-red" />
+</p>
 
 ---
 
