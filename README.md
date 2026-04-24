@@ -27,9 +27,12 @@ I enjoy building systems end-to-end while deeply understanding *why* they work t
 - Modern LLM architectures & tooling
 
 ### 🚀 DevOps & Cloud
-- CI/CD pipelines (GitHub Actions, Jenkins, CircleCI)
-- Containerization (Docker, Kubernetes)
-- AWS infrastructure & system design
+- CI/CD pipelines (GitHub Actions, GitLab, Jenkins, CircleCI)
+- Containerization and Deployment (Docker, Kubernetes)
+- Packaging (Helm)
+- AWS infrastructure (native and pure stack) & system design
+- Terraform (Cloud Infrastructure)
+- ArgoCD (GitOps)
 
 ### ⚙️ Backend & Full Stack
 - MERN Stack
@@ -37,6 +40,7 @@ I enjoy building systems end-to-end while deeply understanding *why* they work t
 - Golang (Gin, gRPC, Go-Kit)
 - Django & FastAPI
 - TypeScript & JavaScript (Node.js backend + full-stack apps)
+- REST
 
 ### ⚡ High Performance Computing
 - CUDA Programming
@@ -176,10 +180,15 @@ graph TD
     E[Backend] --> F[Golang]
     E --> G[Spring Boot]
     E --> H[FastAPI]
+    E --> I[Django]
+    E --> J[Express]
+    E --> K[Nest]
 
     I[DevOps] --> J[Kubernetes]
     I --> K[CI/CD]
     I --> L[AWS]
+    I --> M[Docker]
+    I --> N[Terraform]
 
     M[HPC] --> N[CUDA]
     M --> O[Performance Optimization]
