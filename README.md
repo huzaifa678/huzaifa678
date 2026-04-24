@@ -184,11 +184,11 @@ graph TD
     E --> J[Express]
     E --> K[Nest]
 
-    I[DevOps] --> J[Kubernetes]
-    I --> K[CI/CD]
-    I --> L[AWS]
-    I --> M[Docker]
-    I --> N[Terraform]
+    L[DevOps] --> M[Kubernetes]
+    L --> N[CI/CD]
+    L --> O[AWS]
+    L --> P[Docker]
+    L --> Q[Terraform]
 
-    M[HPC] --> N[CUDA]
-    M --> O[Performance Optimization]
+    R[HPC] --> S[CUDA]
+    P --> T[Performance Optimization]
