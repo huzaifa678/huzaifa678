@@ -191,4 +191,4 @@ graph TD
     L --> Q[Terraform]
 
     R[HPC] --> S[CUDA]
-    P --> T[Performance Optimization]
+    R --> T[Performance Optimization]
